@@ -1,3 +1,6 @@
 [submodule "laradock"]
 	path = laradock
 	url = https://github.com/Laradock/laradock.git
+[submodule "laravel-admin"]
+	path = laravel-admin
+	url = git@github.com:cherryred5959/laravel-admin.git
