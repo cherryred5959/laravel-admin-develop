@@ -68,6 +68,7 @@
         ],
         "post-create-project-cmd": [
             "@php artisan key:generate --ansi"
-        ]
+        ],
+        "admin-lang-sync": "php artisan vendor:publish --tag=\"laravel-admin-lang\" --force"
     }
 }
